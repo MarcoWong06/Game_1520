@@ -23,4 +23,4 @@ An Android Application to play a "15,20" game by selecting a player on a server.
   - Software Engineer
  
 ## Licensing
-Game_1520 is released under the [Apache License](http://www.apache.org/licenses/). Please see the [LICENSE](LICENSE.txt) file for more details.
+Game_1520 is released under the [Apache License](http://www.apache.org/licenses/). Please see the [LICENSE](LICENSE) file for more details.
