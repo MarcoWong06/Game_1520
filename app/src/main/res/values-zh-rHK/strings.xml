@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1520</string>
+    <string name="game_name">十五二十數字拳</string>
+    <string name="play">遊戲</string>
+    <string name="your_records">你的紀錄</string>
+    <string name="close">關閉</string>
+    <string name="copyright">版權所有 (c) 2025, WONG Sai Lung，未經授權，禁止轉載。</string>
+    <string name="how_to_play">遊戲玩法</string>
+    <string name="game_hand_image">遊戲手圖片</string>
+    <string name="player_icon">玩家頭像</string>
+    <string name="start">開始</string>
+    <string name="cancel">取消</string>
+    <string name="add_player">我是新玩家</string>
+    <string name="who_are_you">你是？</string>
+    <string name="new_player">新玩家</string>
+    <string name="player_name">玩家名稱：</string>
+    <string name="example_player_name">例如：亞倫</string>
+    <string name="gender">性別</string>
+    <string name="round">回合</string>
+    <string name="computers_hand">電腦的手：</string>
+    <string name="your_hand">你的手：</string>
+    <string name="your_left_hand">你的左手</string>
+    <string name="your_right_hand">你的右手</string>
+    <string name="save_player">儲存玩家</string>
+    <string name="guess">估</string>
+    <string name="submit">提交</string>
+    <string name="your_guess">你猜的：</string>
+    <string name="computer_right_hand">電腦右手</string>
+    <string name="computer_left_hand">電腦左手</string>
+    <string name="continue_">繼續</string>
+    <string name="back"><![CDATA[<]]> 返回</string>
+</resources>

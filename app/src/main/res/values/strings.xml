@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Game_1520</string>
+    <string name="app_name">1520</string>
+    <string name="game_name">15, 20 Game</string>
+    <string name="play">Play</string>
+    <string name="your_records">Your Records</string>
+    <string name="close">Close</string>
+    <string name="copyright">Copyright (c) 2025, WONG Sai Lung. All rights reserved.</string>
+    <string name="how_to_play">How to play?</string>
+    <string name="game_hand_image">Game Hand Image</string>
+    <string name="player_icon">"Player icon "</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_player">I am New</string>
+    <string name="who_are_you">Who are you?</string>
+    <string name="new_player">New Player</string>
+    <string name="player_name">"Player Name: "</string>
+    <string name="example_player_name">Example: Alan</string>
+    <string name="gender">Gender</string>
+    <string name="round">"Round "</string>
+    <string name="computers_hand">Computer\'s Hand:</string>
+    <string name="your_hand">"Your Hand: "</string>
+    <string name="your_left_hand">Your Left Hand</string>
+    <string name="your_right_hand">Your Right Hand</string>
+    <string name="save_player">Save Player</string>
+    <string name="guess">Guess</string>
+    <string name="submit">Submit</string>
+    <string name="your_guess">"Your Guess: "</string>
+    <string name="computer_right_hand">Computer Right Hand</string>
+    <string name="computer_left_hand">Computer Left Hand</string>
+    <string name="continue_">Continue</string>
+    <string name="back"><![CDATA[<]]> Back</string>
 </resources>
