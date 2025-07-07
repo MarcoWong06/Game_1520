@@ -19,7 +19,7 @@
     <string name="gender">性別</string>
     <string name="round">回合</string>
     <string name="computers_hand">電腦的手：</string>
-    <string name="your_hand">你的手：</string>
+    <string name="your_hand">你的手：（點手）</string>
     <string name="your_left_hand">你的左手</string>
     <string name="your_right_hand">你的右手</string>
     <string name="save_player">儲存玩家</string>
@@ -30,4 +30,8 @@
     <string name="computer_left_hand">電腦左手</string>
     <string name="continue_">繼續</string>
     <string name="back"><![CDATA[<]]> 返回</string>
+    <string name="how_to_play_instructions">數字拳，又稱「五、十、十五、二十」，簡稱「五、十、十五」、又稱「十五、二十」，是一種民間的猜拳遊戲，源於「酒拳」，通常在喝酒時玩。\n\n這個遊戲通常是兩個人玩，每個人可出「零」（雙手握拳）、「五」（伸出一手手掌，另手握拳）、「十」（雙手打開），由一人喊口號，口號共有：「對」、「五」、「十」、「十五」。如該人的口號，恰好是兩人所出的手指總合，即為勝。 香港版本「零」通稱「收哂」、而「二十」通稱「開哂」。\n例如：我出5隻手指，喊「十五」，對方恰好出10，因為5隻手指加10隻手指是15，所以我勝。（直接獲勝，或者再喊一次口號。）\n例如：我出10隻手指，喊「二十」，對方出5，因為10隻手指加5隻手指是15，所以我未能勝，要由對方喊口號。\n為了增加遊戲的刺激性，大多數地區的規則是必須連續兩次猜中，才算贏得一局。</string>
+    <string name="you_guess_first">你先猜</string>
+    <string name="loading">正在加載</string>
+    <string name="no_records_found">沒有紀錄</string>
 </resources>

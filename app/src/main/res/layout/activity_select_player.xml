@@ -4,10 +4,21 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    android:gravity="center"
     android:background="@color/design_default_color_secondary"
     android:theme="@style/Theme.AppCompat.Light.NoActionBar"
     android:id="@+id/select_player">
+
+    <Button
+        android:id="@+id/back_button"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:text="@string/back"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:onClick="onBackPressed" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -54,15 +65,5 @@
         android:text="@string/add_player"
         android:textColor="@android:color/white"
         android:backgroundTint="@android:color/holo_green_dark" />
-
-    <Button
-        android:id="@+id/cancel_button"
-        android:layout_width="300sp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="16dp"
-        android:text="@string/cancel"
-        android:textColor="@android:color/white"
-        android:backgroundTint="@android:color/holo_red_dark" />
 
 </LinearLayout>

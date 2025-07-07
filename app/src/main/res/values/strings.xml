@@ -18,7 +18,7 @@
     <string name="gender">Gender</string>
     <string name="round">"Round "</string>
     <string name="computers_hand">Computer\'s Hand:</string>
-    <string name="your_hand">"Your Hand: "</string>
+    <string name="your_hand">Your Hand: (Click the hand)</string>
     <string name="your_left_hand">Your Left Hand</string>
     <string name="your_right_hand">Your Right Hand</string>
     <string name="save_player">Save Player</string>
@@ -29,4 +29,8 @@
     <string name="computer_left_hand">Computer Left Hand</string>
     <string name="continue_">Continue</string>
     <string name="back"><![CDATA[<]]> Back</string>
+    <string name="how_to_play_instructions">Number Fist, also known as \"Five, Ten, Fifteen, Twenty,\" or simply \"Five, Ten, Fifteen,\" and sometimes called \"Fifteen, Twenty,\" is a folk finger-guessing game originating from \"Drinking Fist,\" typically played while drinking alcohol.\n\nThis game is usually played between two people. Each player can show \"zero\" (both hands clenched into fists), \"five\" (one hand open with palm showing, the other clenched into a fist), or \"ten\" (both hands open). One player calls out a number, which can be: \"match,\" \"five,\" \"ten,\" or \"fifteen.\" If the called number matches the total number of fingers shown by both players, the caller wins. In the Hong Kong version, \"zero\" is commonly called \"all in,\" while \"twenty\" is referred to as \"all out.\"\nFor example: I show 5 fingers and call \"fifteen\", and the opponent happens to show 10. Since 5 fingers plus 10 fingers make 15, I win. (Direct victory, or I can call the slogan again.)\nFor example: I show 10 fingers and call \"twenty\", and the opponent shows 5. Since 10 fingers plus 5 fingers make 15, I do not win, and the opponent gets to call the slogan.\nTo increase the excitement of the game, the rule in most regions is that one must guess correctly twice in a row to win a round.</string>
+    <string name="you_guess_first">You guess first</string>
+    <string name="loading">Loading...</string>
+    <string name="no_records_found">No Records Found</string>
 </resources>
